@@ -2,11 +2,11 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-        }
+}
 
-        :root {
-            --primary: #174ea6;
-            --light-blue: #e9f2ff;
+:root {
+--primary: #174ea6;
+--light-blue: #e9f2ff;
             --dark: #172b4d;
             --white: #ffffff;
             --text: #425466;
